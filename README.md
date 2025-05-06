@@ -18,5 +18,9 @@ The goal is to replicate and understand how Crosscoders can learn the difference
 - Uses intermediate residual activations from the **Qwen Base** models.
 - Focuses on the **middle layer** of the Transformer for training and evaluation.
 
+## 📬 Contact
+
+If you have any questions, feedback, or would like to collaborate on this or related projects, feel free to reach out at **[rkasmik@gmail.com](mailto:rkasmik@gmail.com)**.
+
 
 
